@@ -1,2 +1,2 @@
 # LatihanGit
- Percobaan pertama menggunakan git
+ Ini adalah percobaan pertama saya menggunakan Github.
